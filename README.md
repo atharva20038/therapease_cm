@@ -7,20 +7,20 @@ The digital mental health sector lacks personalized, secure, and accessible solu
 1. Go to the folder fae/client 
 
 2. Install all necessary dependencies
-   '''npm install .'''
+   ```npm install .```
 
 3. Run the front end in react
-   '''npm start'''
+   ```npm start```
 
 ### Back End Dependencies ###
 
 1. Go to the folder fae/flask
 
 2. Install all necessary dependencies using
-   '''pip install -r requirements.txt'''
+   ```pip install -r requirements.txt```
 
 4. Run the file
-   '''python server.py'''
+   ```python server.py```
 
 ### Development Stage ###
 
