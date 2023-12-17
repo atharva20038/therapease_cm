@@ -1,0 +1,12 @@
+/* fonts.css */
+
+@font-face {
+    font-family: 'OurFont-bold';
+    src: url('../assets/Fonts/Fontspring-DEMO-lufga-bold.otf') format('truetype');
+}
+
+@font-face {
+    font-family: 'OurFont-medium';
+    src: url('../assets/Fonts/Fontspring-DEMO-lufga-medium.otf') format('truetype');
+}
+  
