@@ -20,8 +20,12 @@ import base64
 import warnings
 from openai import OpenAI
 import ast
+from dotenv import load_dotenv
 
-os.environ["OPENAI_API_KEY"] = "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"
+load_dotenv("../.env")
+
+## Get the API key from the environment variable
+# os.environ['OPENAI_API_KEY'] = environ.get('OPENAI_API_KEY')
 
 client = OpenAI()
 doctor_list_json = ""
